@@ -1,4 +1,3 @@
-server.py
 """
 College AI Chatbot Backend
 FastAPI + MongoDB + OpenAI (no Emergent dependency)
